@@ -1,12 +1,11 @@
 title: PowerCoreSMP Guide
-description: "Official PowerCoreSMP Player Guide — abilities, cores, fragments, rituals, and survival mechanics."
+description: "The official PowerCoreSMP player guide — cores, abilities, crafting, rituals, and server mechanics."
 baseurl: ""
 url: "https://pcsmp.gcr4cked.dpdns.org"
-
 markdown: kramdown
 kramdown:
   input: GFM
-
+permalink: pretty
 exclude:
   - README.md
   - Gemfile
