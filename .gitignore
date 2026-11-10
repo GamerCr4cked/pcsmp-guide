@@ -1,0 +1,5 @@
+# Jekyll build output + local caches (never tracked)
+**/_site/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
